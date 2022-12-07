@@ -1,5 +1,4 @@
-# ANNA MIKHAYLOVA
- ![Anna's portrait](/img/photo_2022-11-23_12-30-32.jpg)  
+# ANNA MIKHAYLOVA  
  Junior Frontend Developer  
 ---
 ### Contacts:
