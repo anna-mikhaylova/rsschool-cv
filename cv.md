@@ -11,9 +11,10 @@
 ---
 ### Summary:
 
-Being an economist almost for 4 years I realized that this is what I am able to do, but this profession is not my lifework. However, due to this experience I have gained and improved important skills: *to obtain information by myself, to learn quickly, to build effective communications, to solve problems.*
+Being an economist almost for 4 years I realized that this is what I am able to do, but this profession is not my lifework. However, due to this experience I have gained and improved important skills: to obtain information by myself, to learn quickly, to build effective communications, to solve problems.
 
 Currently I am between jobs. During exploring who I truely am, I have become passionate about web developement. I believe my core strengths such as determination and love to learning help me get my first dream job and become the best Frontend Developer ever!
+
 ---
 ### Hard skills:
 * HTML5, CSS3
